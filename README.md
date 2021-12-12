@@ -30,6 +30,8 @@ Created several image classification applications, which trains a deep learning 
 
 Key Skills Demonstrated:
 - Tensorflow and neural networks
+- Process image data
+- Build and train convolutional neural network
 - Model validation and evaluation
 
 
@@ -43,3 +45,5 @@ Key Skills Demonstrated:
 - Ensemble learning technique
 - Significant Variable identification using PCA and Permutation Feature importance
 - Model tuning and evaluation
+
+
