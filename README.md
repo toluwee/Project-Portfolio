@@ -26,7 +26,7 @@ Created several image classification applications, which trains a deep learning 
 
 ### [Is that number 6?](https://github.com/toluwee/Image_Classifier_Handwriting_Digits)
 
-### [That sure looks like a horse](https://github.com/toluwee/Classifying-Horses-and-Humans-with-CNN-Deep-Learning)
+### [That sure looks like a horse!](https://github.com/toluwee/Classifying-Horses-and-Humans-with-CNN-Deep-Learning)
 
 Key Skills Demonstrated:
 - Tensorflow and neural networks
