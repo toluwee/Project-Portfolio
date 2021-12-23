@@ -55,12 +55,9 @@ Key Skills Demonstrated:
 I built a demo web page that a user can use to enter determine their chances of graduate school admission. The user inputs test scores and other metrics. The web page will then send the values off to the deployed XGBoost model, which will predict the probability of admittance. 
 
 Key Skills Demonstrated:
-- Ensemble learning technique
-- Significant Variable identification using PCA and Permutation Feature importance
-- Model tuning and evaluation
-* Supervised Learning
-* Model deployment via AWS EC2
-* APIs for web deployment
-* Flask Web App
+- Supervised Learning
+- Model deployment via AWS EC2
+- APIs for web deployment
+- Flask Web App
 
 
