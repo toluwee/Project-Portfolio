@@ -3,6 +3,7 @@
 - [Data Science](#0)
 - [Computer Vision](#1)
 - [Machine Learning Applications in Oil and Gas](#2)
+- [Machine Learning Engineering with AWS](#3)
 
 <a id='0'></a>
 ## Data Science
@@ -47,3 +48,13 @@ Key Skills Demonstrated:
 - Model tuning and evaluation
 
 
+<a id='3'></a>
+## Machine Learning Engineering with AWS
+
+### [How thick is this anyway?](https://github.com/toluwee/Rheology_prediction_with_blending_ensemble)
+Applied supervised machine learning techniques to predict the apparent viscosity of nanoparticle stabilized CO2 foam for hydraulic fracturing. Blending, a variant of stacking ensemble learning technique explored as alternative for expensive laboratory experiments.
+
+Key Skills Demonstrated:
+- Ensemble learning technique
+- Significant Variable identification using PCA and Permutation Feature importance
+- Model tuning and evaluation
