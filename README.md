@@ -57,7 +57,7 @@ Key Skills Demonstrated:
 - Dimensionality reduction with PCA
 - Unsupervised clustering
 - Model comparison
-- 
+
 <a id='3'></a>
 ## Machine Learning Engineering with AWS EC2
 
