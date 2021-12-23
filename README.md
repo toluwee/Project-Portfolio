@@ -3,7 +3,7 @@
 - [Data Science](#0)
 - [Computer Vision](#1)
 - [Machine Learning Applications in Oil and Gas](#2)
-- [Machine Learning Engineering with AWS](#3)
+- [Machine Learning Engineering with AWS EC2](#3)
 
 <a id='0'></a>
 ## Data Science
@@ -49,7 +49,7 @@ Key Skills Demonstrated:
 
 
 <a id='3'></a>
-## Machine Learning Engineering with AWS
+## Machine Learning Engineering with AWS EC2
 
 ### [Who gets in](https://github.com/toluwee/Who-gets-in)
 I built a demo web page that a user can use to enter determine their chances of graduate school admission. The user inputs test scores and other metrics. The web page will then send the values off to the deployed XGBoost model, which will predict the probability of admittance. 
