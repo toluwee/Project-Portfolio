@@ -47,7 +47,17 @@ Key Skills Demonstrated:
 - Significant Variable identification using PCA and Permutation Feature importance
 - Model tuning and evaluation
 
+### [Where do you belong?](https://github.com/toluwee/Project-Segmentation)
+Applied unsupervised learning techniques to organize global CO2 flooding projects into clusters. Those clusters were used to identify projects that share a similar set of reservoir and fluid parameters. Characteristics and performances of these analogous projects can be used to identify processes and decisions applicable to all. This will enhance operational and technical planning decisions in new or current CO2 flooding projects at field and well levels .
 
+Key Skills Demonstrated:
+- Project segmentation
+- Data cleaning
+- Feature engineering
+- Dimensionality reduction with PCA
+- Unsupervised clustering
+- Model comparison
+- 
 <a id='3'></a>
 ## Machine Learning Engineering with AWS EC2
 
