@@ -2,7 +2,6 @@
 
 - [Data Science](#0)
 - [Computer Vision](#1)
-<!-- - [Machine Learning Applications in Oil and Gas](#2) -->
 - [Machine Learning Engineering with AWS EC2](#3)
 
 <a id='0'></a>
@@ -52,12 +51,6 @@ Key Skills Demonstrated:
 - Process image data
 - Build and train convolutional neural network
 - Model validation and evaluation
-
-
-<!-- <a id='2'></a>
-## Machine Learning Applications in Oil and Gas -->
-
-
 
 <a id='3'></a>
 ## Machine Learning Engineering with AWS EC2
