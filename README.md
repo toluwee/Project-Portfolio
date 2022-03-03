@@ -7,6 +7,19 @@
 <a id='0'></a>
 ## Data Science
 
+### [How can we help?](https://github.com/toluwee/Data-Pipeline-for-Emergency-Message-Classification)
+##### Disaster Response Project
+Constructed a database and ETL pipeline in SQLite to prepare message data from major natural disasters all over the world. In addition, a machine learning pipeline that uses a natural language processing (NLP) model was built to classify emergency messages based on the sender's stated need. Finally, the pipelines were used to create a website app that categorizes messages.
+
+
+Key Skills Demonstrated:
+* Data Modeling with SQLite
+* ETL Pipeline Creation
+* Machine learning Pipeline
+* NLP 
+* Flask Web App
+
+
 ### [Who goes or stays?](https://github.com/toluwee/Customer-Churn)
 Applied supervised machine learning techniques to predict the customers of a telecommunication company who are likely to churn. Insights from the analysis can inform the company on winning strategies for retention of high value customers.
 
