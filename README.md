@@ -13,6 +13,7 @@ Constructed a database and ETL pipeline in SQLite to prepare message data from m
 
 
 Key Skills Demonstrated:
+* Unstructured Data
 * Data Modeling with SQLite
 * ETL Pipeline Creation
 * Machine learning Pipeline
