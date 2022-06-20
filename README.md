@@ -80,7 +80,7 @@ Key Skills Demonstrated:
 ## Machine Learning Engineering with AWS EC2
 
 ### [Who gets in](https://github.com/toluwee/Who-gets-in)
-I built a demo web page that a user can use to enter determine their chances of graduate school admission. The user inputs test scores and other metrics. The web page will then send the values off to the deployed XGBoost model, which will predict the probability of admittance. 
+I built a demo web page that a user can use to determine their chances of graduate school admission. The user inputs test scores and other metrics. The web page will then send the values off to the deployed XGBoost model, which will predict the probability of admittance. 
 
 Key Skills Demonstrated:
 - Supervised Learning
